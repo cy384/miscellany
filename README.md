@@ -19,3 +19,7 @@ OpenSCAD front lens cap for the Industar 69 half frame lens.
 ---------
 KiCAD experiments in the design of ultra-minimal single-key PCBs for mechanical keyboards (see upcoming blog post for details), with a goal of minimizing construction labor and cost.
 
+cherry-mx-lockout
+-----------------
+OpenSCAD 3D printable clip that sits on the top of Cherry MX switches, under a 1U keycap, to block key presses.
+

@@ -2,8 +2,6 @@ build directions
 ----------------
 Set up Retro68 as per its instructions.
 
-In CMakeLists.txt, comment/uncomment the lines to choose PPC vs. m68k.
-
 * `mkdir build`
 * `cd build`
 

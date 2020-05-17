@@ -7,11 +7,11 @@ Most of these are toys or proofs of concept, don't judge my code too harshly!
 
 Anything not otherwise labeled is licensed under the GPL; see LICENSE for details.
 
-retro68-opentransport-tcp-demo
-------------------------------
-This is a demo that sends a simple HTTP request over TCP.  What's the big deal?  It uses the Retro68 toolchain to target m68k and PPC Macs running System 7, 8, and 9, using the Open Transport networking framework.  I've tested it on a 9.2 PPC system, but it should run on the other combinations as well.  It is adapted from the Apple sample code "OTSimpleDownloadHTTP.c", as shown in "Open Transport Networking" from the "Inside Macintosh" book series.
+retro68-demos
+-------------
+These are some demos for doing networking on vintage Macs using the Retro68 toolchain.  Currently it's got demos for Open Transport (TCP and UDP) and MacTCP (UDP).  They've been tested on Mac OS 9.2, but should work on any version with Open Transport or MacTCP, respectively.
 
-I'm publishing this since there's a real dearth of modern code for vintage macs, and hopefully it can give anyone else an easier starting point than I had.
+I'm publishing this since there's a real dearth of modern code for vintage macs, and hopefully it can give anyone interested an easy starting point.
 
 moskva-knob
 -----------

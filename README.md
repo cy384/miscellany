@@ -29,4 +29,13 @@ cherry-mx-lockout
 -----------------
 OpenSCAD 3D printable clip that sits on the top of Cherry MX switches, under a 1U keycap, to block key presses.
 
+atreus-hacks
+------------
+A dump of the hardware and software used for my second generation Atreus keyboards.  Everything is ugly and not cleaned up to the standards I would prefer.  Many flaws: if you want (or need) to use these, definitely contact me before using them.  Some known issues:
+
+* PCB switch placement for thumb keys doesn't exactly match OpenSCAD plate holes
+* Can't run QMK
+* PCB bottom corners don't fit into the OpenSCAD case, so I've included a hacked version of the OpenSCAD case generator here
+* Screw holes in the OpenSCAD case 3D print out too small
+* Pin choices for the PCB are bad, accidentally used an LED pin and the battery power detection pin for the matrix
 

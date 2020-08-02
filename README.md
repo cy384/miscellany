@@ -9,7 +9,7 @@ Anything not otherwise labeled is licensed under the GPL; see LICENSE for detail
 
 retro68-demos
 -------------
-These are some demos for doing networking on vintage Macs using the Retro68 toolchain.  Currently it's got demos for Open Transport (TCP and UDP) and MacTCP (UDP).  They've been tested on Mac OS 9.2, but should work on any version with Open Transport or MacTCP, respectively.
+These are some demos for doing networking on vintage Macs using the Retro68 toolchain.  Currently it's got demos for Open Transport (TCP and UDP) and MacTCP (UDP).  They've been tested on Mac OS 9.2, but should work on any version with Open Transport or MacTCP, respectively (note that Open Transport also emulates the MacTCP driver interface, for compatibility).
 
 I'm publishing this since there's a real dearth of modern code for vintage macs, and hopefully it can give anyone interested an easy starting point.
 

@@ -7,6 +7,10 @@ Most of these are toys or proofs of concept, don't judge my code too harshly!
 
 Anything not otherwise labeled is licensed under the GPL; see LICENSE for details.
 
+mac-metal-tray-scsi2sdv6
+------------------------
+FreeCAD-designed 3D printable adapter to mount a SCSI2SD v6 PCB onto the metal-style drive trays (mine is P/N 805-0425).  Uses the original standard drive screws to connect to the tray, and M3 screws for the SCSI2SD.
+
 retro68-demos
 -------------
 These are some demos for doing networking on vintage Macs using the Retro68 toolchain.  Currently it's got demos for Open Transport (TCP and UDP) and MacTCP (UDP).  They've been tested on Mac OS 9.2, but should work on any version with Open Transport or MacTCP, respectively (note that Open Transport also emulates the MacTCP driver interface, for compatibility).

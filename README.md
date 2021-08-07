@@ -7,6 +7,14 @@ Most of these are toys or proofs of concept, don't judge my code too harshly!
 
 Anything not otherwise labeled is licensed under the GPL; see LICENSE for details.
 
+wombat-hacking
+--------------
+Folder for whatever bits of code I write related to the "WOMBAT" motherboard for classic macs (Centris 650, Quadra 650, Quadra 800).  Currently, a crude program ("ultra-wombat-hax-tool") for reading and displaying djmemc memory controller registers.  This is useful for overclocking-related experimentation.
+
+matias-ergo-pro-foot
+--------------------
+FreeCAD-designed 3D printable replacement foot for a Matias Ergo Pro keyboard (ideally, print in TPU or similar rubbery material).  Friction fit.
+
 mac-metal-tray-scsi2sdv6
 ------------------------
 FreeCAD-designed 3D printable adapter to mount a SCSI2SD v6 PCB onto the metal-style drive trays (mine is P/N 805-0425).  Uses the original standard drive screws to connect to the tray, and M3 screws for the SCSI2SD.

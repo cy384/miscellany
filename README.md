@@ -7,9 +7,9 @@ Most of these are toys or proofs of concept, don't judge my code too harshly!
 
 Anything not otherwise labeled is licensed under the GPL; see LICENSE for details.
 
-wombat-hacking
---------------
-Folder for whatever bits of code I write related to the "WOMBAT" motherboard for classic macs (Centris 650, Quadra 650, Quadra 800).  Currently, a crude program ("ultra-wombat-hax-tool") for reading and displaying djmemc memory controller registers.  This is useful for overclocking-related experimentation.
+softride-bracket
+----------------
+FreeCAD 3D printable bracket to hold onto the end of a Softride bike's beam, and has a gopro-style mount on the end.  Uses an M5 bolt and hex nut.  This is intended for mounting a rear bike light.
 
 matias-ergo-pro-foot
 --------------------

@@ -7,6 +7,10 @@ Most of these are toys or proofs of concept, don't judge my code too harshly!
 
 Anything not otherwise labeled is licensed under the GPL; see LICENSE for details.
 
+m90q-cx353
+----------
+FreeCAD 3D printable bracket to hold a Mellanox CX353A card in a Lenovo M90q Gen 2 SFF desktop.  Just pop it in.
+
 softride-bracket
 ----------------
 FreeCAD 3D printable bracket to hold onto the end of a Softride bike's beam, and has a gopro-style mount on the end.  Uses an M5 bolt and hex nut.  This is intended for mounting a rear bike light.

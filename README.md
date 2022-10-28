@@ -7,6 +7,10 @@ Most of these are toys or proofs of concept, don't judge my code too harshly!
 
 Anything not otherwise labeled is licensed under the GPL; see LICENSE for details.
 
+vax-drive-feet
+--------------
+Screw-on feet to mount standard 3.5" hard drives into my VAX 4000 Model 100a, but they should also fit desktop machines like the MicroVAX 3100 series.  Print one of each file.  Two of them do need to be printed with supports.
+
 m90q-cx353
 ----------
 FreeCAD 3D printable bracket to hold a Mellanox CX353A card in a Lenovo M90q Gen 2 SFF desktop.  Just pop it in.

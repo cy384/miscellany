@@ -4,7 +4,7 @@ FreeCAD 3D printable top for Mellanox SX 6012 / 1012 / 6005 switches, allowing t
 
 Parts needed:
 
-* one 3D print of each file here
+* one 3D print of each file here.  Print the top pieces flat side down, with supports for the little inner tabs.
 * fan controller (I'm using a "MEIRIYFA 3 Pin 4 Pin Fan Adapter PWM PC Chassis Cooling Fan Hub 8 Way Splitter 12V Speed Controller with 6 Pin Power Port" from Amazon)
 * two 120mm fans
 
